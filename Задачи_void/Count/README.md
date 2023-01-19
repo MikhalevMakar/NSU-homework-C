@@ -1,0 +1,1 @@
+> Напишите функцию int Count(const void* array, int count, int size, const void* value, bool (*isEqual)(const void*, const void*)), которая подсчитывает число элементов массива array из count элементов, равных value. Для сравнения элементов нужно использовать указатель на функцию isEqual

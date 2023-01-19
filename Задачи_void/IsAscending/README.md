@@ -1,0 +1,1 @@
+> Напишите функцию bool IsAscending(const void* array, int count, int size, bool (*isLess)(const void*, const void*)), которая проверяет упорядоченность массива array из count элементов по невозрастанию. Для сравнения элементов нужно использовать указатель на функцию isLess.
